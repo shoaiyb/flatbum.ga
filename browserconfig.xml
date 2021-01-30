@@ -3,9 +3,9 @@
   <msapplication>
     <tile>
     <square70x70logo src="/favicon-70x70.png" />
-    <square150x150logo src="/favicon-tile150x150.png" />
-    <wide310x150logo src="/favicon-tile310x150.png" />
-    <square310x310logo src="/favicon-tile310x310.png" />
+    <square150x150logo src="/favicon-150x150.png" />
+    <wide310x150logo src="/favicon-310x150.png" />
+    <square310x310logo src="/favicon-310x310.png" />
     <tilecolor>transparent</tilecolor>
     </tile>
   </msapplication>
