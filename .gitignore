@@ -1,2 +1,4 @@
-/images*
-/assets*
+/images/*
+/assets/*
+/favicon.ico
+/site.webmanifest
