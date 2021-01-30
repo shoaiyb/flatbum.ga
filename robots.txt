@@ -4,4 +4,4 @@ Disallow:
 User-agent: *
 Disallow: 
 
-Sitemap: https://flatbum.ga/sitemap.xml
+Sitemap: https://flatbum.ga/sitemap.txt
