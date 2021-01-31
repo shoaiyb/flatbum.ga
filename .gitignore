@@ -1,4 +1,6 @@
-/images/*
-/assets/*
-/favicon.ico
-/site.webmanifest
+*.png
+*.jpg
+*.js
+*.css
+*.ico
+*/site.webmanifest
